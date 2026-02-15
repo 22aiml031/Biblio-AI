@@ -1,0 +1,15 @@
+# Add project dependencies here, e.g.
+# requests==2.31.0
+# numpy==1.26.0
+# ai_ml_layer requirements
+pandas
+numpy
+scikit-learn
+spacy
+nltk
+sentence-transformers
+faiss-cpu
+# For Gemma-3 LLM summarization (HuggingFace or local)
+transformers
+# Optional: accelerate for LLM inference
+accelerate
